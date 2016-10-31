@@ -1,0 +1,15 @@
+{
+  "name": "js-scratch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:toantran-ea/js-stack-from-scratch.git",
+    "type": "git"
+  },
+  "author": "toan.tran <me@toan.mobi>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {}
+}
